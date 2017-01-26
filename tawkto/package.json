@@ -1,0 +1,23 @@
+{
+  "name": "tawk.to",
+  "version": "1.0.0",
+  "description": "tawk.to",
+  "main": "index.js",
+  "author": "Ronny Fretel <ronny@fretelweb.com>",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://dashboard.tawk.to/?lang=es",
+    "serviceName": "TAWK.TO",
+    "message": "",
+    "popup": [],
+    "hasNotificationSound": false,
+    "hasIndirectMessages": false,
+    "hasTeamID": false,
+    "customURL": true,
+    "hostedOnly": false,
+    "webviewOptions": {
+      "disablewebsecurity": ""
+    },
+    "openDevTools": false
+  }
+}

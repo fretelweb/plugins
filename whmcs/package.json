@@ -1,0 +1,23 @@
+{
+    "name": "whmcs",
+    "version": "1.0.0",
+    "description": "whmcs",
+    "main": "index.js",
+    "author": "Ronny Fretel <ronny@fretelweb.com>",
+    "license": "MIT",
+    "config": {
+        "serviceURL": "https://cliente.fretelweb.com/administrator",
+        "serviceName": "WHMCS",
+        "message": "",
+        "popup": [],
+        "hasNotificationSound": true,
+        "hasIndirectMessages": false,
+        "hasTeamID": false,
+        "customURL": true,
+        "hostedOnly": false,
+        "webviewOptions": {
+            "disablewebsecurity": ""
+        },
+        "openDevTools": false
+    }
+}
